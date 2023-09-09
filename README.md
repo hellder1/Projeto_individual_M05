@@ -8,12 +8,12 @@
 
 * [Sobre](#-sobre)
 * [Link do projeto Colab](#-link-do-projeto)
-* [Questão 1](#-1)
-* [Questão 2](#-2)
-* [Questão 3](#-3)
-* [Questão 4](#-4)
-* [Questão 5](#-5)
-* [Questão 6](#-6)
+* [Pergunta 1](#-pergunta-1)
+* [Pergunta 2](#-pergunta-2)
+* [Pergunta 3](#-pergunta-3)
+* [Pergunta 4](#-pergunta-4)
+* [Pergunta 5](#-pergunta-5)
+* [Pergunta 6](#-pergunta-6)
 * [Conclusões finais](#-conclusões-finais)
 * [Recomendações](#-recomendações)
 * [Ferramentas](#-ferramentas)
@@ -36,23 +36,23 @@ possíveis soluções para esses problemas.
 
 ### Após as identificar as causas das saidas de funcionários,podemos obter as seguites conclusões para as seguintes perguntas:
 
-- ## 1. **O que está sendo mostrado aqui? Escreva um texto explicando os dados. Escreva sobre como você faria isso em voz alta (fazendo suposições conforme necessário).**
+- ## Pergunta 1. **O que está sendo mostrado aqui? Escreva um texto explicando os dados. Escreva sobre como você faria isso em voz alta (fazendo suposições conforme necessário).**
 
 
 Neste gráfico de bolhas resumem as razões para as saídas de funcionários, destacando a falta de progresso na carreira como a causa principal, seguida pelo tipo de trabalho e realocação. A remuneração também é relevante. Recomenda-se adicionar etiquetas às bolhas para identificação e uma legenda no eixo vertical para melhor compreensão. 
 
 
-- ## 2. **Que observações você pode fazer a partir desses dados? Coloque duas conclusões específicas em palavras. Escreva sentenças completas.**
+- ## Pergunta 2. **Que observações você pode fazer a partir desses dados? Coloque duas conclusões específicas em palavras. Escreva sentenças completas.**
 
 Os dados sobre "Progressão na Carreira" lideraram duas pesquisas, sendo a principal causa de saída, mencionada por 171 funcionários. Temas como "Treinamento", "Conflito com Colegas", "Falta de Reconhecimento" e "Carga de Trabalho" também têm destaque devido ao sua alta capacidade de impactar, mesmo que ocorram com menos frequência. 
 
 Isso sugere que, apesar de menos comuns, esses temas exercem essas conclusões orientam estratégias de manutenção e melhorias nas áreas críticas para reduzir a saída de funcionários.
 
-- ## 3. **O que não é ideal ou poderia ser evitado na visualização em sua forma atual? Que perguntas você faria ou que feedback daria para quem fez o gráfico? Exemplo: suponha que seu HRBP gastou muito tempo criando esse gráfico; como você pode ajustar seu feedback para que ele não se ofenda?**
+- ## Pergunta 3. **O que não é ideal ou poderia ser evitado na visualização em sua forma atual? Que perguntas você faria ou que feedback daria para quem fez o gráfico? Exemplo: suponha que seu HRBP gastou muito tempo criando esse gráfico; como você pode ajustar seu feedback para que ele não se ofenda?**
 
 Ao avaliar os dados em questão, observe que a utilização de um gráfico de barras mostraria uma abordagem mais eficaz para a visualização das informações. Com a utilização de tal gráfico, seria possível destacar de forma evidente as relações entre os diversos conjuntos de dados e suas respectivas importâncias relativas. Isso facilitaria a identificação das áreas mais relevantes e realçaria aqueles dados que excedem a média. Esta representação visual nos forneceria uma compreensão mais imediata das tendências e insights contidos no conjunto de dados. Estou à disposição para prestar assistência adicional, caso seja necessário.
 
-- ## 4. **Crie três maneiras diferentes de mostrar esses dados e liste quais são algumas vantagens e insuficiências de cada uma.**
+- ## Pergunta 4. **Crie três maneiras diferentes de mostrar esses dados e liste quais são algumas vantagens e insuficiências de cada uma.**
 
 - **Gráfico de Barras Empilhadas**, tem a vantagem de destacar todas as motivações 
 de saidas na relação geral, e tambem é de fácil leitura.
@@ -64,13 +64,13 @@ Por outro lado, um ponto negativo é que dependendo da quantidade de categorias.
 
 - Em **Tabelas** existem grandes dificuldades para tirar insights de informações contidas dentro de uma tabela, como dificuldade de relacionar linhas e colunas e seus respectivos valores e informações.
 
-- ## 5. **Qual visualização representa melhor os dados e por quê?**
+- ## Pergunta 5. **Qual visualização representa melhor os dados e por quê?**
 
 A escolha da melhor visualização desses dados que tem o objetivo de analisar e identificar as motivações de pessoas estarem deixando a empresa, é o gráfico de barras horizontais ou verticais, pois facilita a comparação entre categorias de 
 forma simultânea. 
 A clareza e legibilidade de nomes de categorias também trás para esses tipo de gráficos um diferencial.
 
-## 6. **Como você pode gerar essas informações em uma história orientada por dados
+## Pergunta 6. **Como você pode gerar essas informações em uma história orientada por dados
 para seu chefe? O objetivo é pensar além de mostrar simplesmente dados e mostrar
 o contexto da história.**
 
@@ -95,7 +95,7 @@ A partir de nossas análises, apresentamos algumas recomendações concretas par
 
 Espera-se que essa análise ajude a empresa a lidar com o atrito da equipe e a criar um ambiente de trabalho mais atraente e gratificante.
 ***
-## 🛠️ FERRAMENTAS:
+## 🛠️ Ferramentas:
 - [GOOGLE COLAB](https://colab.research.google.com/)
 - [TABLEAU](https://www.tableau.com/pt-br/community/public)
 - [CANVA](https://www.canva.com/)
