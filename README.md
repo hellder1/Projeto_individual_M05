@@ -6,17 +6,17 @@
 
 📃ÍNDICE:
 
-* [Sobre](#-SOBRE)
-* [Link do projeto Colab](#-LINK-DO-PROJETO)
-* [Questão 1](#-1.)
-* [Questão 2](#-2.)
-* [Questão 3](#-3.)
-* [Questão 4](#-4.)
-* [Questão 5](#-5.)
-* [Questão 6](#-6.)
-* [Conclusões finais](#-Conclusões-finais)
-* [Recomendações](#-Recomendações)
-* [Ferramentas](#-FERRAMENTAS)
+* [Sobre](#-sobre)
+* [Link do projeto Colab](#-link-do-projeto)
+* [Questão 1](#-1)
+* [Questão 2](#-2)
+* [Questão 3](#-3)
+* [Questão 4](#-4)
+* [Questão 5](#-5)
+* [Questão 6](#-6)
+* [Conclusões finais](#-conclusões-finais)
+* [Recomendações](#-recomendações)
+* [Ferramentas](#-ferramentas)
 
 ***
 ## 📝 SOBRE:
