@@ -19,11 +19,11 @@
 * [Ferramentas](#-ferramentas)
 
 ***
-## 📝 SOBRE:
+## 📝 Sobre:
 ### Você foi contratado como analista de dados e seu chefe, o Chief Marketing Officer (CMO), pediu que você trabalhasse com seu Parceiro de **Negócios de Recursos Humanos (HRBP)** para entender o que está causando o atrito – pessoas deixando a empresa – em toda a organização de marketing e apresentar suas descobertas.
 
 
-- ### [👉Link do projeto:](https://colab.research.google.com/drive/1id4kAq8vZl_tIGYnDqgI5wwDQ_rPnQrf#scrollTo=bAgJBZjKArwX)
+- ## [👉Link do projeto:](https://colab.research.google.com/drive/1id4kAq8vZl_tIGYnDqgI5wwDQ_rPnQrf#scrollTo=bAgJBZjKArwX)
 
 <img src= "histograma 01.png.png"/>
 
@@ -85,12 +85,12 @@ O objetivo principal desta análise é fornecer insights valiosos para aprimorar
 
 ---
 
-### **Conclusões finais:**
+## **Conclusões finais:**
 A ausência de avanço na carreira é uma razão predominante para as saídas, relacionadas por grande maioria dos funcionários. A escassez de oportunidades de progressão é um fator de extrema importância.
 
 O gênero de trabalho e a mudança de localização também desempenham um papel relevante, esse dois aspectos são as duas principais razões depois da falta de um plano de carreira, para a saida de funcionários. 
 ***
-### **Recomendações:**
+## **Recomendações:**
 A partir de nossas análises, apresentamos algumas recomendações concretas para atenuar esse impacto adverso:
 
 - Introduzir programas de desenvolvimento de carreira com o objetivo de disponibilizar oportunidades de progressão.
